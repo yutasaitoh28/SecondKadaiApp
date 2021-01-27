@@ -27,7 +27,6 @@
                                     <constraint firstAttribute="width" relation="lessThanOrEqual" constant="200" id="cAB-vK-CWW"/>
                                     <constraint firstAttribute="width" relation="lessThanOrEqual" constant="200" id="msV-ey-BaU"/>
                                     <constraint firstAttribute="width" constant="100" id="qtN-gD-2fu"/>
-                                    <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="150" id="u4O-3d-u3N"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
